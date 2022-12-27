@@ -1,0 +1,4 @@
+shirt = "blue"
+
+print(shirt)
+
